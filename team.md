@@ -9,7 +9,7 @@ subtitle:
     <div class="column">
       <img src="../assets/img/Daniel_Memmert.jpg">
       Prof. Dr. Daniel Memmert <a href="https://www.dshs-koeln.de/en/institut-fuer-trainingswissenschaft-und-sportinformatik/" style="color:black"><i>(ITS)</i></a> <br />
-      <small>Head of <a href="https://www.dshs-koeln.de/en/institut-fuer-trainingswissenschaft-und-sportinformatik/" style="color:black"><i>(ITS)</i></a></small><br />
+      <small>Head of ITS<a href="https://www.dshs-koeln.de/en/institut-fuer-trainingswissenschaft-und-sportinformatik/" style="color:black"><i>(ITS)</i></a></small><br />
     </div>
     <div class="column">
       <img src="../assets/img/Ralph_Ewerth.jpeg">
@@ -18,7 +18,7 @@ subtitle:
     </div>
     <div class="column">
       <img src="../assets/img/Dominik_Raabe.jpg">
-        Dominik Raabe <a href="https://www.dshs-koeln.de/en/institut-fuer-trainingswissenschaft-und-sportinformatik/" style="color:black"><i>ITS</i></a> <br />
+        Dominik Raabe <a href="https://www.dshs-koeln.de/en/institut-fuer-trainingswissenschaft-und-sportinformatik/" style="color:black"><i>(ITS)</i></a> <br />
       <small>Ph.D. and Project Organization</small><br />
     </div>
 
@@ -30,13 +30,13 @@ subtitle:
     </div>
     <div class="column">
       <img src="../assets/img/Eric_Mueller-Budach.jpg">
-      Eric Müller-Budack <a href="https://www.tib.eu/en/research-development/visual-analytics" style="color:black"><small>(L3S)</small></a><br />
+      Eric Müller-Budack <a href="https://www.tib.eu/en/research-development/visual-analytics" style="color:black"><i>(L3S)</i></a><br />
       <small>Post-Doc</small><br />
     </div> 
     <div class="column">
        <img src="../assets/img/Pierre_Widmann.jpeg">
-      Daniel Widmann <a href="hhttps://kinexon.com/de/sport" style="color:black"><i>(KINEXON)</i></a> <br />
-      <small>Project Manager Sport KINEXON GmbH</small><br />
+      Daniel Widmann <a href="hhttps://kinexon.com/de/sport" style="color:black"><i>(Kinexon)</i></a> <br />
+      <small>Project Manager Sport KINEXON</small><br />
     </div>
 
 
@@ -48,7 +48,7 @@ subtitle:
       </div>
       <div class="column">
         <img src="../assets/img/Rumena_Komitova.jpeg">
-          Rumena Komitova<a href="https://www.dshs-koeln.de/en/institut-fuer-trainingswissenschaft-und-sportinformatik/" style="color:black"><i>(ITS)</i></a>  <br />
+          Rumena Komitova <a href="https://www.dshs-koeln.de/en/institut-fuer-trainingswissenschaft-und-sportinformatik/" style="color:black"><i>(ITS)</i></a>  <br />
         <small>Ph.D.</small><br />
       </div>
        <div class="column">
@@ -62,7 +62,7 @@ subtitle:
   <div class="row">
     <div class="column">
         <img src="../assets/img/Daniel_Linke.jpeg">
-        Dr. Daniel Linke <a href="hhttps://kinexon.com/de/sport" style="color:black"><i>(KINEXON)</i></a>  <br />
+        Dr. Daniel Linke <a href="hhttps://kinexon.com/de/sport" style="color:black"><i>(Kinexon)</i></a>  <br />
         <small>Senior Product Manager Sports</small><br />
       </div>
     <div class="column">
