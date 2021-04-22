@@ -24,7 +24,7 @@ subtitle:
 
   <div class="row">
     <div class="column">
-      <img src="../assets/img/Jonas_Theinert.jpeg">
+      <img src="../assets/img/Jonas_Theiner.jpeg">
       Jonas Theiner <a href="https://www.tib.eu/en/research-development/visual-analytics" style="color:black"><i>(L3S)</i></a> <br />
       <small>Ph.D.</small><br />
     </div>
