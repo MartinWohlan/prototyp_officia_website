@@ -16,9 +16,11 @@ subtitle:
     </div>
     <div class="column">
       <img src="../assets/img/Martin_Wohlan.jpeg">
-      Text about Martin Wohlan
-      German Sport University Cologne
-      Wissenschaftliche Hilfskraft
+      <p> <small> Text about Martin Wohlan </small></p>
+      <p> <small> German Sport University Cologne</small></p>
+      <p> <small> Wissenschaftliche Hilfskraft</small></p>
+      
+     
     </div>
   </div>
 </body>
