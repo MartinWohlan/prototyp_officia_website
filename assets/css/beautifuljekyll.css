@@ -994,6 +994,20 @@ pre {
   margin: 0 auto;
 }
 
+.parent {
+
+}
+
+.child-one{
+
+}
+.child-two{
+  
+}
+.child-three{
+  
+}
+
 /* Three image containers (use 25% for four, and 50% for two, etc) */
 .column {
   float: left;
