@@ -20,7 +20,7 @@ subtitle:
   <div class="row">
     <div class="column">
       <img src="../assets/img/Dominik_Raabe.jpg">
-        Dominik Raabe <a href="https://www.dshs-koeln.de/en/institut-fuer-trainingswissenschaft-und-sportinformatik/" style="color:black"><i>(ITS)</i></a> <br />
+        Dominik Raabe <a href="https://www.dshs-koeln.de/en/institut-fuer-trainingswissenschaft-und-sportinformatik/" style="color:black"><i>ITS</i></a> <br />
       <small>Ph.D. and Project Organization</small><br />
     </div>
     <div class="column">
