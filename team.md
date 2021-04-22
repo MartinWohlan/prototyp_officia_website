@@ -6,11 +6,11 @@ subtitle:
 
 <div class="row">
   <div class="column">
-    <img src="/assets/img/Jonas_Theiner.jpeg">" alt="Jonas Theiner" style="width:100%">
+    <img src="../assets/img/Jonas_Theiner.jpeg">" alt="Jonas Theiner" style="width:100%">
     Text about Jonas Theinert
   </div>
   <div class="column">
-     <img src="/assets/img/Wolfgang_Grietz.jpg">" alt="Wolfgang Grietz" style="width:100%">
+     <img src="../assets/img/Wolfgang_Grietz.jpg">" alt="Wolfgang Grietz" style="width:100%">
      Text about Wolfgang Grietz
   </div>
   <div class="column">
