@@ -25,7 +25,7 @@ subtitle:
       <a href="https://www.tib.eu/en/research-development/visual-analytics" style="color:black"><small> L3S Research Center at the Leibniz University Hannover</small></a> <br />
       <small> Ph.D.</small><br />
     </div>  
-</body>
+  </body>
 
 <body>
   <div class="row">
