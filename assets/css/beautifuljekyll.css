@@ -1009,3 +1009,7 @@ pre {
   clear: both;
   display: table;
 }
+
+.person {
+  max-width: 100%;
+}
