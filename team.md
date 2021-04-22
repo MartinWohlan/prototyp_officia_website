@@ -8,21 +8,21 @@ subtitle:
   <div class="row">
     <div class="column">
       <img src="../assets/img/Jonas_Theiner.jpeg">
-      <small> Jonas Theinert </small>
-      <small> L3S Hannover </small>
-      <small> Ph.D.</small>
+      <small> Jonas Theinert </small><br />
+      <small> L3S Hannover </small><br />
+      <small> Ph.D.</small><br />
     </div>
     <div class="column">
       <img src="../assets/img/Wolfgang_Grietz.jpg">
-      <small> Wolfgang Grietz </small>
-      <small> L3S Hannover </small>
-      <small> Ph.D.</small>
+      <small> Wolfgang Grietz </small><br />
+      <small> L3S Hannover </small><br />
+      <small> Ph.D.</small><br />
     </div>
     <div class="column">
       <img src="../assets/img/Martin_Wohlan.jpeg">
-      <small> Text about Martin Wohlan </small>
-      <small> German Sport University Cologne</small>
-      <small> Research Assistant</small>
+      <small> Text about Martin Wohlan </small><br />
+      <small> German Sport University Cologne</small><br />
+      <small> Research Assistant</small><br />
     </div>
   </div>
 </body>
