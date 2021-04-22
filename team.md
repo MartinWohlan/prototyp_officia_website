@@ -11,7 +11,6 @@ subtitle:
       <small> Jonas Theinert </small>
       <small> L3S Hannover </small>
       <small> Ph.D.</small>
-     <div> Text about Jonas Theinert </div>
     </div>
     <div class="column">
       <img src="../assets/img/Wolfgang_Grietz.jpg">
