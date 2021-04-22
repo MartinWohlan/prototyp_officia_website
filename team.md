@@ -37,7 +37,7 @@ subtitle:
 
   <div class="row">
     <div class="column">
-        <img src="../assets/img/Martin_Wohlan.jpg">
+        <img src="../assets/img/Hendrik_Biermann.jpg">
         Hendrik Biermann <a href="https://www.dshs-koeln.de/en/institut-fuer-trainingswissenschaft-und-sportinformatik/" style="color:black"><i>(ITS)</i></a>  <br />
         <small>Ph.D.</small><br />
       </div>
