@@ -7,14 +7,14 @@ subtitle:
 <div class="row">
   <div class="column">
     <img src="../assets/img/Jonas_Theiner.jpeg">
-    Text about Jonas Theinert
+   <div> Text about Jonas Theinert </div>
   </div>
   <div class="column">
-     <img src="../assets/img/Wolfgang_Grietz.jpg">"alt="Wolfgang Grietz" style="width:100%">
+     <img src="../assets/img/Wolfgang_Grietz.jpg">
      Text about Wolfgang Grietz
   </div>
   <div class="column">
-    <img src="../assets/img/Martin_Wohlan.jpeg">" alt="Martin Wohlan" style="width:100%">
+    <img src="../assets/img/Martin_Wohlan.jpeg">
     Text about Martin Wohlan
   </div>
 </div>
