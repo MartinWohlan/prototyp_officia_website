@@ -1010,6 +1010,14 @@ pre {
   display: table;
 }
 
+.column2 {
+  float: left;
+  width: 50.0%;
+  padding: 50px;
+
+}
+
+
 .person {
   max-width: 100%;
 }
