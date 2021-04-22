@@ -7,45 +7,46 @@ subtitle:
  <body> 
   <div class="row">
     <div class="column">
-      <img src="../assets/img/Jonas_Theiner.jpeg">
-      <small> Jonas Theinert1</small><br />
-      <a href="https://www.tib.eu/en/research-development/visual-analytics" style="color:black"><small>L3S Hannover</small></a> <br />
-      <small> Ph.D.</small><br />
+      <img src="../assets/img/Dominik_Raabe.jpg">
+      <small> Dominik Raabe</small><br />
+      <a href="https://www.dshs-koeln.de/en/institut-fuer-trainingswissenschaft-und-sportinformatik/" style="color:black"><small>German Sport University Cologne Institute for Exercise Training and Sport Informatics</small></a> <br />
+      <small> Ph.D. and Projekt Organization</small><br />
     </div>
-    <div class="column">
-      <img src="../assets/img/Wolfgang_Grietz.jpg">
-      <small> Wolfgang Grietz </small><br />
-      <small> L3S Hannover </small><br />
-      <small> Ph.D.</small><br />
-    </div>
-    <div class="column">
-      <img src="../assets/img/Martin_Wohlan.jpeg">
-      <small> Martin Wohlan </small><br />
-      <small> German Sport University Cologne</small><br />
-      <small> Research Assistant</small><br />
-    </div>
-  </div>
-</body>
-
-<body> 
-  <div class="row">
+     <div class="row">
     <div class="column">
       <img src="../assets/img/Jonas_Theiner.jpeg">
       <small> Jonas Theinert</small><br />
-      <a href="https://www.tib.eu/en/research-development/visual-analytics" style="color:black"><small>L3S Hannover</small></a> <br />
+      <a href="https://www.tib.eu/en/research-development/visual-analytics" style="color:black"><small> L3S Research Center at the Leibniz University Hannover</small></a> <br />
       <small> Ph.D.</small><br />
     </div>
     <div class="column">
+      <img src="../assets/img/Eric_Mueller-Budach.jpg">
+      <small> Eric Müller-Budack</small><br />
+      <a href="https://www.tib.eu/en/research-development/visual-analytics" style="color:black"><small> L3S Research Center at the Leibniz University Hannover</small></a> <br />
+      <small> Ph.D.</small><br />
+    </div>
+  
+</body>
+
+<body>
+  <div class="column">
+      <img src="../assets/img/Hendrik_Biermann.jpg">
+      <small> Hendrik Biermann </small><br />
+       <a href="https://www.dshs-koeln.de/en/institut-fuer-trainingswissenschaft-und-sportinformatik/" style="color:black"><small>German Sport University Cologne Institute for Exercise Training and Sport Informatics</small></a> <br />
+      <small> Ph.D.</small><br />
+    </div>
+  <div class="row">
+    <div class="column">
+      <img src="../assets/img/Rumena_Komitova.jpg">
+      <small> Rumena Komitova</small><br />
+      <a href="https://www.dshs-koeln.de/en/institut-fuer-trainingswissenschaft-und-sportinformatik/" style="color:black"><small>German Sport University Cologne Institute for Exercise Training and Sport Informatics</small></a> <br />
+      <small> Ph.D.</small><br />
+    </div>
+     <div class="column">
       <img src="../assets/img/Wolfgang_Grietz.jpg">
       <small> Wolfgang Grietz </small><br />
-      <small> L3S Hannover </small><br />
+       <a href="https://www.tib.eu/en/research-development/visual-analytics" style="color:black"><small> L3S Research Center at the Leibniz University Hannover</small></a> <br />
       <small> Ph.D.</small><br />
-    </div>
-    <div class="column">
-      <img src="../assets/img/Martin_Wohlan.jpeg">
-      <small> Martin Wohlan </small><br />
-      <small> German Sport University Cologne</small><br />
-      <small> Research Assistant</small><br />
     </div>
   </div>
 </body>
