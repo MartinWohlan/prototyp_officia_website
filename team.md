@@ -17,19 +17,14 @@ subtitle:
       <small>Head of Visual Analytics Research Group</small><br />
     </div>
     <div class="column">
-      <img src="../assets/img/Pierre_Widmann.jpeg">
-      Daniel Widmann <a href="hhttps://kinexon.com/de/sport" style="color:black"><i>(KINEXON)</i></a> <br />
-      <small>Project Manager Sport KINEXON GmbH</small><br />
-    </div>
-
-  <div class="row">
-    <div class="column">
       <img src="../assets/img/Dominik_Raabe.jpg">
         Dominik Raabe <a href="https://www.dshs-koeln.de/en/institut-fuer-trainingswissenschaft-und-sportinformatik/" style="color:black"><i>ITS</i></a> <br />
       <small>Ph.D. and Project Organization</small><br />
     </div>
+
+  <div class="row">
     <div class="column">
-      <img src="../assets/img/Jonas_Theiner.jpeg">
+      <img src="../assets/img/Jonas_Theinert.jpeg">
       Jonas Theinert <a href="https://www.tib.eu/en/research-development/visual-analytics" style="color:black"><i>(L3S)</i></a> <br />
       <small>Ph.D.</small><br />
     </div>
@@ -37,7 +32,12 @@ subtitle:
       <img src="../assets/img/Eric_Mueller-Budach.jpg">
       Eric Müller-Budack <a href="https://www.tib.eu/en/research-development/visual-analytics" style="color:black"><small>(L3S)</small></a><br />
       <small>Post-Doc</small><br />
-    </div>  
+    </div> 
+    <div class="column">
+       <img src="../assets/img/Pierre_Widmann.jpeg">
+      Daniel Widmann <a href="hhttps://kinexon.com/de/sport" style="color:black"><i>(KINEXON)</i></a> <br />
+      <small>Project Manager Sport KINEXON GmbH</small><br />
+    </div>
 
 
   <div class="row">
