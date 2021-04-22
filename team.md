@@ -9,7 +9,7 @@ subtitle:
     <div class="column">
       <img src="../assets/img/Jonas_Theiner.jpeg">
       <small> Jonas Theinert </small><br />
-      <small> L3S Hannover </small><br />
+      <a href="https://www.tib.eu/en/research-development/visual-analytics" style="color:black"><small>project description</small></a> <br />
       <small> Ph.D.</small><br />
     </div>
     <div class="column">
@@ -20,7 +20,7 @@ subtitle:
     </div>
     <div class="column">
       <img src="../assets/img/Martin_Wohlan.jpeg">
-      <small> Text about Martin Wohlan </small><br />
+      <small> Martin Wohlan </small><br />
       <small> German Sport University Cologne</small><br />
       <small> Research Assistant</small><br />
     </div>
