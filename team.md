@@ -7,9 +7,9 @@ subtitle:
  <body> 
   <div class="row">
     <div class="column">
-      <img src="../assets/img/Jonas_Theiner.jpeg">
+      <img src="../assets/img/Jonas_Theiner.jpeg" style="width:100px;height:100px;">
       <small> Jonas Theinert </small><br />
-      <a href="https://www.tib.eu/en/research-development/visual-analytics" style="color:black"><small>project description</small></a> <br />
+      <a href="https://www.tib.eu/en/research-development/visual-analytics" style="color:black"><small>L3S Hannover</small></a> <br />
       <small> Ph.D.</small><br />
     </div>
     <div class="column">
