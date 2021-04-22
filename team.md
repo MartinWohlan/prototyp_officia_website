@@ -8,7 +8,7 @@ subtitle:
   <div class="row">
     <div class="column">
       <img src="../assets/img/Jonas_Theiner.jpeg" style="width:auto;height:250;">
-      <small> Jonas Theinert </small><br />
+      <small> Jonas Theinert 250 </small><br />
       <a href="https://www.tib.eu/en/research-development/visual-analytics" style="color:black"><small>L3S Hannover</small></a> <br />
       <small> Ph.D.</small><br />
     </div>
