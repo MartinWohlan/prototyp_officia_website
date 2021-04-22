@@ -4,13 +4,6 @@ title:  Team
 subtitle:
 ---
  
-<body>
-  <div class = "parent"> Parent
-    <div class = "child-one child"> One</div>
-    <div class = "child-two child"> Two</div>
-    <div class = "child-three child"> Three</div>
-  </div>
-</body>
 
 
 
@@ -18,7 +11,8 @@ subtitle:
 
 
 
- <!---  <body> 
+
+ <body> 
   <div class="row">
     <div class="column">
       <img src="../assets/img/Jonas_Theiner.jpeg">
@@ -33,7 +27,7 @@ subtitle:
       Text about Martin Wohlan
     </div>
   </div>
-</body> --->
+</body>
 
 
 
