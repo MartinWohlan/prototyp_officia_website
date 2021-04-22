@@ -25,7 +25,7 @@ subtitle:
   <div class="row">
     <div class="column">
       <img src="../assets/img/Jonas_Theinert.jpeg">
-      Jonas Theinert <a href="https://www.tib.eu/en/research-development/visual-analytics" style="color:black"><i>(L3S)</i></a> <br />
+      Jonas Theiner <a href="https://www.tib.eu/en/research-development/visual-analytics" style="color:black"><i>(L3S)</i></a> <br />
       <small>Ph.D.</small><br />
     </div>
     <div class="column">
@@ -58,6 +58,18 @@ subtitle:
     </div>
       </div>
   </div>
+
+  <div class="row">
+    <div class="column">
+        <img src="../assets/img/Daniel_Linke.jpeg">
+        Dr. Daniel Linke <a href="hhttps://kinexon.com/de/sport" style="color:black"><i>(KINEXON)</i></a>  <br />
+        <small>Senior Product Manager Sports</small><br />
+      </div>
+    <div class="column">
+        <img src="../assets/img/Martin_Wohlan.jpeg">
+        Martin Wohlan <a href="https://www.dshs-koeln.de/en/institut-fuer-trainingswissenschaft-und-sportinformatik/" style="color:black"><i>(ITS)</i></a>  <br />
+        <small>Research Assistant</small><br />
+      </div>
 
 
 
