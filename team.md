@@ -1,7 +1,7 @@
 ---
 layout: page
 title:  Team
-subtitle:
+subtitle: 
 ---
 
  
@@ -19,14 +19,14 @@ subtitle:
     <div class="column">
       <img src="../assets/img/Dominik_Raabe.jpg">
         Dominik Raabe <a href="https://www.dshs-koeln.de/en/institut-fuer-trainingswissenschaft-und-sportinformatik/" style="color:black"><i>(ITS)</i></a> <br />
-      <small>Ph.D. and Project Organization</small><br />
+      <small>Ph.D. (Candidate) and Project Organization</small><br />
     </div>
 
   <div class="row">
     <div class="column">
       <img src="../assets/img/Jonas_Theiner.jpeg">
       Jonas Theiner <a href="https://www.tib.eu/en/research-development/visual-analytics" style="color:black"><i>(L3S)</i></a> <br />
-      <small>Ph.D.</small><br />
+      <small>Ph.D. (Candidate)</small><br />
     </div>
     <div class="column">
       <img src="../assets/img/Eric_Mueller-Budach.jpg">
@@ -36,7 +36,7 @@ subtitle:
     <div class="column">
         <img src="../assets/img/Hendrik_Biermann.jpg">
         Hendrik Biermann <a href="https://www.dshs-koeln.de/en/institut-fuer-trainingswissenschaft-und-sportinformatik/" style="color:black"><i>(ITS)</i></a>  <br />
-        <small>Ph.D.</small><br />
+        <small>Ph.D. (Candidate)</small><br />
     </div>
   </div>
 
@@ -44,17 +44,17 @@ subtitle:
     <div class="column">
       <img src="../assets/img/Rumena_Komitova.jpeg">
         Rumena Komitova <a href="https://www.dshs-koeln.de/en/institut-fuer-trainingswissenschaft-und-sportinformatik/" style="color:black"><i>(ITS)</i></a>  <br />
-        <small>Ph.D.</small><br />
+        <small>Ph.D. (Candidate)</small><br />
       </div>
       <div class="column">
       <img src="../assets/img/Manuel_Bassek.jpg">
         Manuel Bassek <a href="https://www.dshs-koeln.de/en/institut-fuer-trainingswissenschaft-und-sportinformatik/" style="color:black"><i>(ITS)</i></a>  <br />
-        <small>Ph.D.</small><br />
+        <small>Ph.D. (Candidate)</small><br />
       </div>
       <div class="column">
         <img src="../assets/img/Wolfgang_Grietz.jpg">
         Wolfgang Grietz <a href="https://www.tib.eu/en/research-development/visual-analytics" style="color:black"><i>(L3S)</i></a> <br />
-        <small>Ph.D.</small><br />
+        <small>Ph.D. (Candidate)</small><br />
       </div>
   </div>
 
