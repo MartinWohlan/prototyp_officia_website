@@ -7,8 +7,7 @@ subtitle:
  
   <div class="row">
     <div class="column">
-      <img src="../assets/img/Daniel_Memmert.jpg">
-      Prof. Dr. Daniel Memmert <a href="https://www.dshs-koeln.de/en/institut-fuer-trainingswissenschaft-und-sportinformatik/" style="color:black"><i>(ITS)</i></a> <br />
+      <img src="../assets/img/Daniel_Memmert.jpg">Prof. Dr. Daniel Memmert <a href="https://www.dshs-koeln.de/en/institut-fuer-trainingswissenschaft-und-sportinformatik/" style="color:black"><i>(ITS)</i></a> <br />
       <small>Head of ITS</small><br />
     </div>
     <div class="column">
