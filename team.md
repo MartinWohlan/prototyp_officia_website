@@ -61,7 +61,7 @@ subtitle:
     <div class="column">
        <img src="../assets/img/Pierre_Widmann.jpeg">
       Daniel Widmann <a href="hhttps://kinexon.com/de/sport" style="color:black"><i>(Kinexon)</i></a> <br />
-      <small>Project Manager Sport KINEXON</small><br />
+      <small>Project Manager Sport</small><br />
     </div>
     <div class="column">
         <img src="../assets/img/Daniel_Linke.jpeg">
