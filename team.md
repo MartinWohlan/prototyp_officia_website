@@ -28,7 +28,7 @@ subtitle:
         <small>Ph.D.</small><br />
     </div>
     <div class="column">
-      <a href="https://www.dshs-koeln.de/institut-fuer-trainingswissenschaft-und-sportinformatik/" style="color:black">Manuel Bassek</a> <br />
+    <img src="../assets/img/Manuel_Bassek.jpg"><a href="https://www.dshs-koeln.de/institut-fuer-trainingswissenschaft-und-sportinformatik/" style="color:black">Manuel Bassek</a> <br />
         <small>Ph.D.</small><br />
     </div>
     <div class="column">
