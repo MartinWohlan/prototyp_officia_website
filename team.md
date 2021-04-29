@@ -1,10 +1,10 @@
 ---
 layout: page
 title:  Team
-subtitle: 
+subtitle:
 ---
 
- 
+ <h2> <a href="https://www.dshs-koeln.de/en/institut-fuer-trainingswissenschaft-und-sportinformatik/" style="color:black"> ITS </a> </h2> 
   <div class="row">
     <div class="column">
       <img src="../assets/img/Daniel_Memmert.jpg">Prof. Dr. Daniel Memmert <a href="https://www.dshs-koeln.de/en/institut-fuer-trainingswissenschaft-und-sportinformatik/" style="color:black"><i>(ITS)</i></a> <br />
