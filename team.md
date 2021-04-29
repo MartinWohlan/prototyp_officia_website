@@ -7,7 +7,7 @@ subtitle:
   <div><a href="https://www.dshs-koeln.de/en/institut-fuer-trainingswissenschaft-und-sportinformatik/" style="color:black"><h2>ITS</h2></a></div>
   <div class="row">
     <div class="column">
-      <img src="../assets/img/Daniel_Memmert.jpg"><a href="https://www.dshs-koeln.de/en/visitenkarte/person/univ-prof-dr-daniel-memmert/" style="color:black">Prof. Dr. Daniel Memmert</a> <br />
+      <img src="../assets/img/Daniel_Memmert2.jpg"><a href="https://www.dshs-koeln.de/en/visitenkarte/person/univ-prof-dr-daniel-memmert/" style="color:black">Prof. Dr. Daniel Memmert</a> <br />
       <small>Head of ITS</small><br />
     </div>
     <div class="column">
