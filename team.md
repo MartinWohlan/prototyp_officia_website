@@ -4,7 +4,7 @@ title:  Team
 subtitle:
 ---
 
- <center> <h2> <a href="https://www.dshs-koeln.de/en/institut-fuer-trainingswissenschaft-und-sportinformatik/" style="color:black"> ITS </a> </h2> </center> 
+ <center><a href="https://www.dshs-koeln.de/en/institut-fuer-trainingswissenschaft-und-sportinformatik/" style="color:black"><h2> ITS</h2></a></center> 
   <div class="row">
     <div class="column">
       <img src="../assets/img/Daniel_Memmert.jpg"><a href="https://www.dshs-koeln.de/en/visitenkarte/person/univ-prof-dr-daniel-memmert/" style="color:black">Prof. Dr. Daniel Memmert</a> <br />
@@ -39,7 +39,7 @@ subtitle:
   </div>
 
 
-<center> <h2> <a href="https://www.tib.eu/en/research-development/visual-analytics" style="color:black"> L3S </a> </h2> </center>
+<center> <a href="https://www.tib.eu/en/research-development/visual-analytics" style="color:black"> <h2>L3S</h2> </a> </center>
   <div class="row">
      <div class="column">
       <img src="../assets/img/Ralph_Ewerth.jpeg"><a href="https://www.tib.eu/en/research-development/visual-analytics/staff/ralph-ewerth" style="color:black">Prof. Dr. Ralph Ewerth</a> <br />
@@ -69,7 +69,7 @@ subtitle:
 
 
 
-<center> <h2> <a href="https://kinexon.com/de/sport" style="color:black"> Kinexon </a> </h2> </center> 
+<center><a href="https://kinexon.com/de/sport" style="color:black"> <h2>Kinexon</h2></a></center> 
   <div class="row">
     <div class="column">
        <img src="../assets/img/Pierre_Widmann.jpeg">
