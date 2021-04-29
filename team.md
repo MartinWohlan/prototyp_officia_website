@@ -4,7 +4,7 @@ title:  Team
 subtitle:
 ---
 
- <center><a href="https://www.dshs-koeln.de/en/institut-fuer-trainingswissenschaft-und-sportinformatik/" style="color:black"><h2> ITS</h2></a></center> 
+ <center><a href="https://www.dshs-koeln.de/en/institut-fuer-trainingswissenschaft-und-sportinformatik/" style="color:black"><h2>ITS</h2></a></center> 
   <div class="row">
     <div class="column">
       <img src="../assets/img/Daniel_Memmert.jpg"><a href="https://www.dshs-koeln.de/en/visitenkarte/person/univ-prof-dr-daniel-memmert/" style="color:black">Prof. Dr. Daniel Memmert</a> <br />
@@ -33,13 +33,13 @@ subtitle:
     </div>
     <div class="column">
         <img src="../assets/img/Martin_Wohlan.jpeg">
-        <a href="https://www.dshs-koeln.de/visitenkarte/person/martin-wohlan/" style="color:black">Martin Wohlan </a>  <br />
+        <a href="https://www.dshs-koeln.de/visitenkarte/person/martin-wohlan/" style="color:black">Martin Wohlan</a>  <br />
         <small>Research Assistant</small><br />
       </div>
-  </div>
+  </div> </br>
 
 
-<center> <a href="https://www.tib.eu/en/research-development/visual-analytics" style="color:black"> <h2>L3S</h2> </a> </center>
+<center> <a href="https://www.tib.eu/en/research-development/visual-analytics" style="color:black"> <h2>L3S</h2> </a> </center></br>
   <div class="row">
      <div class="column">
       <img src="../assets/img/Ralph_Ewerth.jpeg"><a href="https://www.tib.eu/en/research-development/visual-analytics/staff/ralph-ewerth" style="color:black">Prof. Dr. Ralph Ewerth</a> <br />
@@ -63,13 +63,9 @@ subtitle:
         <a href="https://www.tib.eu/en/research-development/visual-analytics/staff/huu-hung-nguyen-1" style="color:black">Wolfgang Grietz</a> <br />
         <small>Ph.D.</small><br />
     </div>
-  </div>
+  </div> </br>
 
-
-
-
-
-<center><a href="https://kinexon.com/de/sport" style="color:black"> <h2>Kinexon</h2></a></center> 
+<center><a href="https://kinexon.com/de/sport" style="color:black"> <h2>Kinexon</h2></a></center></div></br>
   <div class="row">
     <div class="column">
        <img src="../assets/img/Pierre_Widmann.jpeg">
