@@ -22,7 +22,7 @@ navbar-links:
   Home: ""
   Project: "aboutTheProject"
   Partner:
-    - DSHS: "dshs"
+    - ITS: "its"
     - L3S: "l3s"
     - Kinexon: "kinexon"
   Team: "team"
