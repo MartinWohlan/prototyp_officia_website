@@ -39,7 +39,7 @@ subtitle:
   </div>
 
 
-<center> <h2> <a href="https://www.tib.eu/en/research-development/visual-analytics" style="color:black"> L3S </a> </h2> </center> 
+<center> <h2> <a href="https://www.tib.eu/en/research-development/visual-analytics" style="color:black"> L3S </a> </h2> </center>
   <div class="row">
      <div class="column">
       <img src="../assets/img/Ralph_Ewerth.jpeg"><a href="https://www.tib.eu/en/research-development/visual-analytics/staff/ralph-ewerth" style="color:black">Prof. Dr. Ralph Ewerth</a> <br />
@@ -69,7 +69,7 @@ subtitle:
 
 
 
-<center> <h2> <a "https://kinexon.com/sports" style="color:black"> Kinexon </a> </h2> </center> 
+<center> <h2> <a href="https://kinexon.com/de/sport" style="color:black"> Kinexon </a> </h2> </center> 
   <div class="row">
     <div class="column">
        <img src="../assets/img/Pierre_Widmann.jpeg">
