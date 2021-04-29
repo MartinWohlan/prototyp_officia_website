@@ -39,7 +39,7 @@ subtitle:
   </div>
 
 
-<center> <a href="https://www.tib.eu/en/research-development/visual-analytics" style="color:black"> <h2>L3S</h2> </a> </center>
+<center> <a href="https://www.tib.eu/en/research-development/visual-analytics" style="color:black"> L3S </a> </center>
   <div class="row">
      <div class="column">
       <img src="../assets/img/Ralph_Ewerth.jpeg"><a href="https://www.tib.eu/en/research-development/visual-analytics/staff/ralph-ewerth" style="color:black">Prof. Dr. Ralph Ewerth</a> <br />
