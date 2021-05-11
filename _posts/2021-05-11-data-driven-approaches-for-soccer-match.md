@@ -7,9 +7,7 @@ share-img: /assets/img/dfg_logo.jpg
 ---
 Univ.-Prof. Dr. Daniel Memmert, managing director of the Institute of Training Science and Sports Informatics at the German Sport University Cologne and his team have been working for years on the analysis (e.g. with SOCCER©) and simulation of complex position data (so-called Big Data) and have developed and validated theoretical framework models for this (cf. <a href="https://gepris.dfg.de/gepris/projekt/432920202?language=en" style="color:black"><i> DFG project “e-Science”</i></a>).
 
-<a href="https://gepris.dfg.de/gepris/projekt/432920202?language=en">
-<img src="./assets/img/dfg_logo.jpg">
-</a> 
+![dfg_logo](../assets/img/dfg_logo.jpg)(https://gepris.dfg.de/gepris/projekt/432920202?language=en){: .mx-auto.d-block :}
  
 <h2>Projekt Description</h2>
 
