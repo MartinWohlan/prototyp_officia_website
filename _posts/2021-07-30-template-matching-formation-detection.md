@@ -9,7 +9,6 @@ share-img: /assets/img/Trajectory_Assignment.png
 
 
 Automated handball formation recognition is a key aspect of tactical game analysis based on Big Data. The following described method offers for the first time the possibility to quantitatively evaluate tactical, sport-specific expert knowledge and to derive evidence-based performance indicators.
-
 Tactical considerations arise from sport-specific expert knowledge, but so far there have been no scientific studies that have systematically evaluated them in handball. Positional data, which have been systematically collected for several years, now make it possible to investigate these issues quantitatively.Due to the cooperation with KINEXON (LINK), a large data set with position and video data was available.
 In order to be able to investigate differences between different formations, a method was developed to detect and distinguish defensive formations. For each player of the defending team, the mean position over a game scene was calculated.
 ![Trajectory_Assignment](../assets/img/Trajectory_Assignment.png){: .mx-auto.d-block :}
@@ -17,7 +16,6 @@ Using a template-matching approach  (Müller-Budack et al., 2019 --> Link to Pap
 
 
 ![Formation_Assignment](../assets/img/Formation_Assignment.png){: .mx-auto.d-block :}
-
 Template matching of the idealized positions (red dots) and the mean positions (green crosses) for each player in a defensive phase. The dashed lines show the role assignment when solving the linear assignment problem by minimizing the total distance of all players to the idealized positions.
 
 
