@@ -23,3 +23,6 @@ Template matching of the idealized positions (red dots) and the mean positions (
 
 
 
+Müller-Budack, E., Theiner, J., Rein, R., & Ewerth, R. (2019). „Does 4-4-2 exist?“—: An Analytics Approach to Understand and Classify Football Team Formations in Single Match Situations. Proceedings Proceedings of the 2nd International Workshop on Multimedia Content Analysis in Sports  - MMSports ’19, 25–33. https://doi.org/10.1145/3347318.3355527
+
+
