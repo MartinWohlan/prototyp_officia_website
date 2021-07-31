@@ -16,3 +16,7 @@ Using a template-matching approach  (<a href="https://dl.acm.org/doi/10.1145/334
 
 ![Formation_Assignment](../assets/img/Formation_Assignment.png){: .mx-auto.d-block :}
 Template matching of the idealized positions (red dots) and the mean positions (green crosses) for each player in a defensive phase. The dashed lines show the role assignment when solving the linear assignment problem by minimizing the total distance of all players to the idealized positions.
+
+On the following picture you can see a video excerpt belonging to the graphics.
+
+![broadcast_snip](../assets/img/handball_demo.PNG){: .mx-auto.d-block :}
