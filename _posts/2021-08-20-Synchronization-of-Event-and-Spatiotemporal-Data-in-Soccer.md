@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Synchronization of Event and Spatiotemporal Data in Soccer"
-subtitle: Template matching algorithm to assign defensive formations in handball
+subtitle: An algoithm to refine existing pass annotations from event data
  
-thumbnail-img: /assets/img/Trajectory_Assignment.png
-share-img: /assets/img/Trajectory_Assignment.png
+thumbnail-img: /assets/img/Pass_sync.png
+share-img: /assets/img/Pass_sync.png
 ---
 
 
