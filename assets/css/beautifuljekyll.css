@@ -67,10 +67,6 @@ hr.small {
   border-radius: 0.1875rem;
 }
 
-.red {
-  background-color: red;
-}
-
 /* fix in-page anchors to not be behind fixed header */
 :target:before {
   content: "";
