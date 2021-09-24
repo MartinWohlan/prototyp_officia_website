@@ -8,9 +8,11 @@ share-img: /assets/img/taxonomie.png
 ---
 
 Events play an important role for the interpretation of complex invasion games like soccer, handball, hockey, or basketball and are therefore of high interest. Over the last years, three fundamental perspectives emerged with regard to the analysis of sports games, which all value different characteristics of the respective sports: 
-(1) The Machine learning (ML) perspective aims to find automatic solutions for specific tasks. This perspective is just content with the results and accepts that performance is never perfect (possible image).
-(2) The sports science domain demands on semantically precise descriptions of the individual developments to analyze success factors. In contrast to the ML perspective, the sports science perspective is very interested in the events that were not recognized by the model and it will try to characterize the missing percentage to find similarities that are important for the description of the sport. 
-(3) Finally, the practicioners do not care about the recognition of events alone but they would rather like to evaluate their impact. They are interested in i.e the immediate impact of specific modification of training or tactics.
+1. The Machine learning (ML) perspective aims to find automatic solutions for specific tasks. This perspective is just content with the results and accepts that performance is never perfect (possible image).
+2. The sports science domain demands on semantically precise descriptions of the individual developments to analyze success factors. In contrast to the ML perspective, the sports science perspective is very interested in the events that were not recognized by the model and it will try to characterize the missing percentage to find similarities that are important for the description of the sport. 
+3. Finally, the practicioners who do not care about the recognition of events alone but they would rather like to evaluate their impact. They are interested in i.e the immediate impact of specific modification of training or tactics.
+
+![ml-model](../assets/img/ml_model.png){: .mx-auto.d-block :}
 
 While the general objective to understand and exploit the underlying concepts in the sports is common to all perspectives, synergistic effects are barely observed. At least for soccer there is quite a lot related work on the ML and the sport science perspective. 
 
@@ -18,14 +20,14 @@ Descriptive statistical analysis such as possession or shot frequency rely on ev
 
 Our aim and contribution is to create a taxonomy that is valid for invasion games in general and can be applied to all invasion games with a sport-specific refinement of the base events.
  In the creation process we consider the following attributes:
-(1) We aim for a hierarchical structure with increasing semantics from top to bottom levels.
-(2) We want to enable a minimal annotation without redundancies.
-(3) Although minimal, we want to enable annotations that are still exact and objective.
-(4) The approach should be easily refined and expanded
+1. We aim for a hierarchical structure with increasing semantics from top to bottom levels.
+2. We want to enable a minimal annotation without redundancies.
+3. Although minimal, we want to enable annotations that are still exact and objective.
+4. The approach should be easily refined and expanded
 
 Based on this taxonomy, which can be seen below, we also release a dataset. On this dataset we performed a detailed evaluation on the human annotators performance and on which we also trained an exemplary baseline for event recognition from video data.
 
-![Refined_Pass_Labels](../assets/img/taxonomie.png){: .mx-auto. :}
+![taxonomie](../assets/img/taxonomie.png){: .mx-auto.d-block :}
 
 
 
