@@ -25,6 +25,7 @@ In the creation process we consider the following attributes:
 4. The approach should be easily refined and expanded
 
 The following basic structure provides a hierarchical, minimal, and objective description of Invasion Games.
+
 ![taxonomie-basic-structure](../assets/img/taxonomy_basic.png){: .mx-auto.d-block :}
 This basic structure can be further refined to include intention, success or other sport-specific concepts.
 ![taxonomie-basic-structure](../assets/img/taxonomy_basic2.png){: .mx-auto.d-block :}
