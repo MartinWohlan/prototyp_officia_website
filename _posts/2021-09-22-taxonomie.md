@@ -30,9 +30,11 @@ This basic structure can be further refined to include intention, success or oth
 ![taxonomie-basic-structure](../assets/img/taxonomy_basic2.png){: .mx-auto.d-block :}
 
 The following example is the elaborated taxonomy for soccer. More detailed information can be read in the paper.
+
 ![taxonomie-basic-structure](../assets/img/taxonomy.png){: .mx-auto.d-block :}
 
 In addition to the taxonomy a dataset for soccer and handball was released in which ground truth events at the finest hierarchy level were annotated. Based on this dataset a detailed evaluation on the human annotators performance and an exemplary baseline for event recognition from video data was executed. The results, which can be viewed in detail in the paper, suggest that the base taxonomy does generally not require expert knowledge. This observation underlines the low amount of semantic interpretation included in our proposed taxonomy. Furthermore it can be concluded that the hierarchical structure of the taxonomy has an positiv influence since the highest abstraction level shows the highes agreements.
+
 With the presented taxonomy, datasets, and baseline, we create a foundation for the design and the benchmarking of upcoming automatic approaches for the spotting of on-ball events. Also, other domains that work with video, positional, and event data, could benefit from the taxonomy and the datasets introduced. In the future, we plan to integrate non-on-ball events into the taxonomy and to exploit hierarchical information and attention to the ball position during training of a deep model.
 
 In order to get further insights we refer to our paper.
