@@ -2,7 +2,7 @@
 layout: post
 title: "A Unified Taxonomy and Multimodal Dataset for Events in Invasion Games"
 subtitle: A hierarchical taxonomy that enables a minimal and objective annotation and is modular expendable to fit the needs of various invasion games
- cover-img: /assets/img/taxonomy.png
+
 thumbnail-img: /assets/img/taxonomy_basic.png
 share-img: /assets/img/taxonomie.png
 ---
