@@ -16,7 +16,8 @@ While the general objective to understand and exploit the underlying concepts in
 
 Descriptive statistical analysis such as possession or shot frequency rely on events that occur on the pitch. However, collecting semantic and (spatio-) temporal properties for events during matches is on-trivial, highly dependent on the underlying definitions, and is, in the case of (accurate) manual annotations, very time-consuming and expensive. Nevertheless it is a common practice of data providers for (certain) matches in professional sport to delegate the annotation of events to human annotators. Various approaches have been suggested to automate the process. In this respect, the automatic detection of (spatio-) temporal events has been addressed for (broadcast) video data and positional data. However, due to ambigious definitions of the events and the fact that public datasets are very rare, both manual annotations and automatic detection of events do not fulfill a gold standard in annotation quality. Even though the sports science perspective offers some taxonomies there is no global annotation scheme or event taxonomy that covers various fine grained events that can be evaluated with few meaningful metrics to set a gold standard.
 
-Our aim and contribution is to create a taxonomy that is valid for invasion games in general. In the creation process we consider the following attributes:
+Our aim and contribution is to create a taxonomy that is valid for invasion games in general and can be applied to all invasion games with a sport-specific refinement of the base events.
+ In the creation process we consider the following attributes:
 (1) We aim for a hierarchical structure with increasing semantics from top to bottom levels.
 (2) We want to enable a minimal annotation without redundancies.
 (3) Although minimal, we want to enable annotations that are still exact and objective.
@@ -24,10 +25,12 @@ Our aim and contribution is to create a taxonomy that is valid for invasion game
 
 Based on this taxonomy, which can be seen below, we also release a dataset. On this dataset we performed a detailed evaluation on the human annotators performance and on which we also trained an exemplary baseline for event recognition from video data.
 
-![Refined_Pass_Labels](../assets/img/taxonomie.png){: .mx-auto.d-block :}
+![Refined_Pass_Labels](../assets/img/taxonomie.png){: .mx-auto. :}
+
+
+
 
 The overall goal of invasion games (i.e soccer, handball, hockey, basketball etc.) is to invade a certain space to send a certain object to a given target. The team that reaches that goal within a given time span wins.
-
 
 
 
