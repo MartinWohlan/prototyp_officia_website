@@ -12,29 +12,21 @@ Events play an important role for the interpretation of complex invasion games l
 2. The sports science domain demands on semantically precise descriptions of the individual developments to analyze success factors. In contrast to the ML perspective, the sports science perspective is very interested in the events that were not recognized by the model and it will try to characterize the missing percentage to find similarities that are important for the description of the sport. 
 3. Finally, the practicioners who do not care about the recognition of events alone but they would rather like to evaluate their impact. They are interested in i.e the immediate impact of specific modification of training or tactics. 
 ![ml-model](../assets/img/ml_model.png){: .mx-auto.d-block :}
+
 While the general objective to understand and exploit the underlying concepts in the sports is common to all perspectives, synergistic effects are barely observed. At least for soccer there is quite a lot related work on the ML and the sport science perspective.
+
 Descriptive statistical analysis such as possession or shot frequency rely on events that occur on the pitch. However, collecting semantic and (spatio-) temporal properties for events during matches is on-trivial, highly dependent on the underlying definitions, and is, in the case of (accurate) manual annotations, very time-consuming and expensive. Nevertheless it is a common practice of data providers for (certain) matches in professional sport to delegate the annotation of events to human annotators. Various approaches have been suggested to automate the process. In this respect, the automatic detection of (spatio-) temporal events has been addressed for (broadcast) video data and positional data. However, due to ambigious definitions of the events and the fact that public datasets are very rare, both manual annotations and automatic detection of events do not fulfill a gold standard in annotation quality. Even though the sports science perspective offers some taxonomies there is no global annotation scheme or event taxonomy that covers various fine grained events that can be evaluated with few meaningful metrics to set a gold standard.
 
 Our aim and contribution is to create a taxonomy that is valid for invasion games in general and can be applied to all invasion games with a sport-specific refinement of the base events.
- In the creation process we consider the following attributes:
+In the creation process we consider the following attributes:
 1. We aim for a hierarchical structure with increasing semantics from top to bottom levels.
 2. We want to enable a minimal annotation without redundancies.
 3. Although minimal, we want to enable annotations that are still exact and objective.
 4. The approach should be easily refined and expanded
 ![taxonomie](../assets/img/taxonomy_basic.png){: .mx-auto.d-block :}
+In addition to the taxonomy, which can be seen above, we also released a dataset. On this dataset we performed a detailed evaluation on the human annotators performance and on which we also trained an exemplary baseline for event recognition from video data.
 
-Based on this taxonomy, which can be seen below, we also release a dataset. On this dataset we performed a detailed evaluation on the human annotators performance and on which we also trained an exemplary baseline for event recognition from video data.
-
-![taxonomie](../assets/img/taxonomie.png){: .mx-auto.d-block :}
-
-
-
-
-The overall goal of invasion games (i.e soccer, handball, hockey, basketball etc.) is to invade a certain space to send a certain object to a given target. The team that reaches that goal within a given time span wins.
-
-
-
-In summary, we observe a lack of a common consensus for the majority of events in the sport. Neither precise definitions of individual events nor the temporal annotation or evaluation process are consistent. Publicly available datasets are uni-modal, focus on soccer, and often consider only a small subset of events that does not reflect the entire match. These inconsistencies make it for all aforementioned three perspectives difficult to assess the performance of automatic systems and to identify state-of-the-art approaches for the real-world task of fine-grained and ball-centered event spotting from multimodal data sources.
+<!--- In summary, we observe a lack of a common consensus for the majority of events in the sport. Neither precise definitions of individual events nor the temporal annotation or evaluation process are consistent. Publicly available datasets are uni-modal, focus on soccer, and often consider only a small subset of events that does not reflect the entire match. These inconsistencies make it for all aforementioned three perspectives difficult to assess the performance of automatic systems and to identify state-of-the-art approaches for the real-world task of fine-grained and ball-centered event spotting from multimodal data sources.
 
 In this paper, we target the aforementioned problems and present several contributions: 1) We propose a unified taxonomy for lowlevel, and high-level ball-centered events in invasion games and exemplary refine it to the specific requirements of soccer and handball. This is practicable as most invasion games involve various shared motoric tasks (e.g., a ball catch), which are fundamental to describe semantic concepts (involving intention and context from the game). 2)We release two multimodal benchmark datasets (video and audio data for soccer (EIGD-S), synchronized video, audio, and positional data for handball (EIGD-H)) with gold-standard event annotations for a total of 125 minutes of playing time per dataset. These datasets contain frame-accurate manual annotations by domain experts performed on the videos based on the proposed taxonomy (see Figure 1). 3) Lastly an I3D [10] model for video chunk classification is adapted for the spotting task using a sliding window and non-maximum suppression and is applied.
 
@@ -55,4 +47,4 @@ In this paper, we target the aforementioned problems and present several contrib
 (4) Finally, we aim for a modular expendable taxonomy. This allows for a detailed examination of specific sports and concepts while still ensuring a globally valid annotation that is comparable (and compatible) with annotations regarding different sports and concepts.
 
 
-The mi- nor discrepancies in the performance of the experienced and the inexperienced annotator for EIGD-S-T also indicate that a sufficient annotation of our base taxonomy does generally not require expert knowledge. This observation shows the low amount of semantic interpretation included in our proposed taxonomy. 
+The mi- nor discrepancies in the performance of the experienced and the inexperienced annotator for EIGD-S-T also indicate that a sufficient annotation of our base taxonomy does generally not require expert knowledge. This observation shows the low amount of semantic interpretation included in our proposed taxonomy.  --->
