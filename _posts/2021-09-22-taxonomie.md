@@ -24,6 +24,7 @@ In the creation process we consider the following attributes:
 3. Although minimal, we want to enable annotations that are still exact and objective.
 4. The approach should be easily refined and expanded
 ![taxonomie](../assets/img/taxonomy_basic.png){: .mx-auto.d-block :}
+
 In addition to the taxonomy, which can be seen above, we also released a dataset. On this dataset we performed a detailed evaluation on the human annotators performance and on which we also trained an exemplary baseline for event recognition from video data.
 
 <!--- In summary, we observe a lack of a common consensus for the majority of events in the sport. Neither precise definitions of individual events nor the temporal annotation or evaluation process are consistent. Publicly available datasets are uni-modal, focus on soccer, and often consider only a small subset of events that does not reflect the entire match. These inconsistencies make it for all aforementioned three perspectives difficult to assess the performance of automatic systems and to identify state-of-the-art approaches for the real-world task of fine-grained and ball-centered event spotting from multimodal data sources.
