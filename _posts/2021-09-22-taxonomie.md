@@ -23,9 +23,13 @@ In the creation process we consider the following attributes:
 2. We want to enable a minimal annotation without redundancies.
 3. Although minimal, we want to enable annotations that are still exact and objective.
 4. The approach should be easily refined and expanded
-![taxonomie](../assets/img/taxonomy_basic.png){: .mx-auto.d-block :}
 
-In addition to the taxonomy, which can be seen above, a dataset was released. On this dataset a detailed evaluation on the human annotators performance and an exemplary baseline for event recognition from video data was executed. The results, which can be viewed in detail in the paper, suggest that the base taxonomy does generally not require expert knowledge. This observation shows the low amount of semantic interpretation included in our proposed taxonomy.
+The following basic structure provides a hierarchical, minimal, and objective description of Invasion Games.
+![taxonomie-basic-structure](../assets/img/taxonomy_basic.png){: .mx-auto.d-block :}
+This basic structure can be further refined to include intention, success or other sport-specific concepts.
+![taxonomie-basic-structure](../assets/img/taxonomy_basic2.png){: .mx-auto.d-block :}
+
+In addition to the taxonomy a dataset was released. On this dataset a detailed evaluation on the human annotators performance and an exemplary baseline for event recognition from video data was executed. The results, which can be viewed in detail in the paper, suggest that the base taxonomy does generally not require expert knowledge. This observation shows the low amount of semantic interpretation included in our proposed taxonomy.
 
 <!--- In summary, we observe a lack of a common consensus for the majority of events in the sport. Neither precise definitions of individual events nor the temporal annotation or evaluation process are consistent. Publicly available datasets are uni-modal, focus on soccer, and often consider only a small subset of events that does not reflect the entire match. These inconsistencies make it for all aforementioned three perspectives difficult to assess the performance of automatic systems and to identify state-of-the-art approaches for the real-world task of fine-grained and ball-centered event spotting from multimodal data sources.
 
