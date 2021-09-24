@@ -17,7 +17,7 @@ While the general objective to understand and exploit the underlying concepts in
 
 Descriptive statistical analysis such as possession or shot frequency rely on events that occur on the pitch. However, collecting semantic and (spatio-) temporal properties for events during matches is on-trivial, highly dependent on the underlying definitions, and is, in the case of (accurate) manual annotations, very time-consuming and expensive. Nevertheless it is a common practice of data providers for (certain) matches in professional sport to delegate the annotation of events to human annotators. Various approaches have been suggested to automate the process. In this respect, the automatic detection of (spatio-) temporal events has been addressed for (broadcast) video data and positional data. However, due to ambigious definitions of the events and the fact that public datasets are very rare, both manual annotations and automatic detection of events do not fulfill a gold standard in annotation quality. Even though the sports science perspective offers some taxonomies there is no global annotation scheme or event taxonomy that covers various fine grained events that can be evaluated with few meaningful metrics to set a gold standard.
 
-Our aim and contribution is to create a taxonomy that is valid for invasion games in general and can be applied to all invasion games with a sport-specific refinement of the base events.
+The aim and contribution is to create a taxonomy that is valid for invasion games in general and can be applied to all invasion games with a sport-specific refinement of the base events.
 In the creation process we consider the following attributes:
 1. We aim for a hierarchical structure with increasing semantics from top to bottom levels.
 2. We want to enable a minimal annotation without redundancies.
@@ -25,7 +25,7 @@ In the creation process we consider the following attributes:
 4. The approach should be easily refined and expanded
 ![taxonomie](../assets/img/taxonomy_basic.png){: .mx-auto.d-block :}
 
-In addition to the taxonomy, which can be seen above, we also released a dataset. On this dataset we performed a detailed evaluation on the human annotators performance and on which we also trained an exemplary baseline for event recognition from video data.
+In addition to the taxonomy, which can be seen above, a dataset was released. On this dataset a detailed evaluation on the human annotators performance and an exemplary baseline for event recognition from video data was executed. The results, which can be viewed in detail in the paper, suggest that the base taxonomy does generally not require expert knowledge. This observation shows the low amount of semantic interpretation included in our proposed taxonomy.
 
 <!--- In summary, we observe a lack of a common consensus for the majority of events in the sport. Neither precise definitions of individual events nor the temporal annotation or evaluation process are consistent. Publicly available datasets are uni-modal, focus on soccer, and often consider only a small subset of events that does not reflect the entire match. These inconsistencies make it for all aforementioned three perspectives difficult to assess the performance of automatic systems and to identify state-of-the-art approaches for the real-world task of fine-grained and ball-centered event spotting from multimodal data sources.
 
