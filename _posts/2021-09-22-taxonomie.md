@@ -20,7 +20,7 @@ Even though the sports science perspective offers some taxonomies there is no gl
 
 In our [paper](https://arxiv.org/pdf/2108.11149.pdf), we propse a taxonomy of base events that is valid for invasion games in general and can be refined or extended to sport-specific events. 
 
-<img src="../assets/img/taxonomy.png" alt="taxonomy"/>
+<img src="../assets/img/taxonomy.png" alt="taxonomy" width = 1000 height = 400/>
 
 This taxonomy enables a game to be described more completly than has been done in the literature to date.
 Starting with shared motoric tasks such as *ball release*, the complexity of events increases as well as the uncertainty in human annotations just in further differentiating *passes* and *shots*.
