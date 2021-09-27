@@ -1,13 +1,13 @@
 ---
 layout: post
 title: "A Unified Taxonomy and Multimodal Dataset for Events in Invasion Games"
-subtitle: A hierarchical taxonomy that enables a minimal and objective annotation and is modular expendable to fit the needs of various invasion games
+subtitle: A hierarchical taxonomy that enables a minimal and objective annotation. And is modular expendable to fit the needs of various invasion games
 
 thumbnail-img: /assets/img/taxonomy_basic.png
 share-img: /assets/img/taxonomie.png
 ---
 
-Events like passes or shots play an important role for the interpretation of complex invasion games like soccer, handball, hockey, or basketball and are of high interest for many domains. Over the last years, three fundamental perspectives emerged with regard to the analysis of sports games, which all value different characteristics of the respective sports.
+Events like passes or shots play an important role for the interpretation of complex invasion games like soccer, handball, hockey, or basketball. Over the last years, three fundamental perspectives emerged with regard to the analysis of sports games, which all value different characteristics of the respective sports.
 Somewhat overstated: 
 1. The **Machine Learning** (ML) perspective aims to find automatic solutions for specific tasks. This perspective is initially only interested in maximizing the model's performance regardless of what the output or error mean in terms of content. 
 2. The **sports science** domain demands on semantically precise descriptions of the individual developments to analyze success factors. In contrast to the ML perspective, the sports science perspective is very interested in the events that were not recognized by the model and it will try to characterize the missing percentage to find similarities that are important for the description of the sport. 
@@ -20,7 +20,7 @@ Even though the sports science perspective offers some taxonomies there is no gl
 
 In our [paper](https://arxiv.org/pdf/2108.11149.pdf), we propse a taxonomy of base events that is valid for invasion games in general and can be refined or extended to sport-specific events. 
 
-![taxonomie-basic-structure](../assets/img/taxonomy.png){: .mx-auto.d-block :}
+<img src="./assets/img/taxonomy.jpg" alt="drawing" width=1000 height = 400/>
 
 This taxonomy enables a game to be described more completly than has been done in the literature to date.
 Starting with shared motoric tasks such as *ball release*, the complexity of events increases as well as the uncertainty in human annotations just in further differentiating *passes* and *shots*.
