@@ -19,4 +19,4 @@ In the future, we assume a more significant improvement when utilizing data from
 
 ![Algorithm](../assets/img/pass_refinement_algorithm.png){: .mx-auto.d-block :}
 
-The diagram illustrates the Work flow of the proposed algorithm. On the left, the input data and the involvement in the respective steps of the algorithm is displayed. On the right, an exemplary sequence for player-ball distance (cyan curve, in m) and ball acceleration (orange curve, in m/s<sup>2</sup>) for different steps of the algorithm are presented. The bottom two plots on the right part include the respective expert pass label (green line), the imprecise pass label (red line), and the refined pass label (black line, quantitative) which is computed from the algorithm's pass event probabilities P(w) (black curve).
+Further details on the proposed algorithm and more detailed information can be found in our paper.
