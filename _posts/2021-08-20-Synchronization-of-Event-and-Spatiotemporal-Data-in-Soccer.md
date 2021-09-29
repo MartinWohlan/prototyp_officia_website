@@ -20,4 +20,4 @@ In the future, we assume a more significant improvement when utilizing data from
 
 ![Algorithm](../assets/img/pass_refinement_algorithm.png){: .mx-auto.d-block :}
 
-Further details on the proposed algorithm and more detailed information can be found in our paper.
+Further details on the proposed algorithm can be found in our paper.
