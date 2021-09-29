@@ -3,8 +3,8 @@ layout: post
 title: "Synchronization of Event and Spatiotemporal Data in Soccer"
 subtitle: An algorithm to refine existing pass annotations from event data
  
-thumbnail-img: /assets/img/Pass_sync.png
-share-img: /assets/img/Pass_sync.png
+thumbnail-img: /assets/img/passSync.png
+share-img: /assets/img/passSync.png
 ---
 
 
