@@ -995,14 +995,6 @@ pre {
   margin: 0 auto;
 }
 
-
-/* Three image containers (use 25% for four, and 50% for two, etc) */
-.column {
-  float: left;
-  width: 33.33%;
-  padding: 5px;
-}
-
 /* Clear floats after image containers */
 .row::after {
   content: "";
@@ -1030,6 +1022,18 @@ pre {
   float: left;
   width: 33.33%;
   padding: 5px;
+}
+
+.row {
+  display: flex;
+  flex-wrap: wrap;
+  padding: 0 4px;
+}
+
+/* Create two equal columns that sits next to each other */
+.column {
+  flex: 33.3%;
+  padding: 0 4px;
 }
 
 
