@@ -1020,3 +1020,16 @@ pre {
 .person {
   max-width: 100%;
 }
+
+.column1 {
+  float: left;
+  width: 33.33%;
+  padding: 5px;
+}
+.column2 {
+  float: left;
+  width: 33.33%;
+  padding: 5px;
+}
+
+
